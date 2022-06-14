@@ -11,29 +11,29 @@ const CONFIG = {
 	// └─┘┴ ┴└─┘┴└─┘└─┘
 
 	// General
-	name: '',
-	imageBackground: false,
+	name: 'Pranav',
+	imageBackground: true,
 	openInNewTab: true,
-	twelveHourFormat: false,
+	twelveHourFormat: true,
 
 	// Greetings
-	greetingMorning: 'MORNING',
-	greetingAfternoon: 'GOOD AFTERNOON',
-	greetingEvening: 'GOOD EVENING',
-	greetingNight: 'GO TO BED',
+	greetingMorning: 'Good morning!',
+	greetingAfternoon: 'Good afternoon',
+	greetingEvening: 'Good evening',
+	greetingNight: 'Sleep well King!',
 
 	// Layout
-	bentoLayout: 'buttons', // 'bento', 'lists', 'buttons'
+	bentoLayout: 'bento', // 'bento', 'lists', 'buttons'
 
 	// Weather
-	weatherKey: '', // Write here your API Key
-	weatherIcons: 'White', // 'Onedark', 'Nord', 'Dark', 'White'
+	weatherKey: 'f028371db03f057bb2bf95d8618412a3', // Write here your API Key
+	weatherIcons: 'OneDark', // 'Onedark', 'Nord', 'Dark', 'White'
 	weatherUnit: 'C', // 'F', 'C'
 	language: 'en', // More languages in https://openweathermap.org/current#multi
 
 	trackLocation: true, // If false or an error occurs, the app will use the lat/lon below
-	defaultLatitude: '359.273750',
-	defaultLongitude: '15.207540',
+	defaultLatitude: '21.194145339909028',
+	defaultLongitude: '72.78374231503187',
 
 	// Autochange
 	autoChangeTheme: false,
@@ -53,80 +53,42 @@ const CONFIG = {
 	firstButtonsContainer: [
 		{
 			id: '1',
-			name: 'MAIL',
-			icon: 'mail',
-			link: 'https://mail.protonmail.com/',
+			name: 'YouTube',
+			icon: 'youtube',
+			link: 'https://www.youtube.com/',
 		},
 		{
 			id: '2',
-			name: 'CALENDAR',
-			icon: 'calendar',
-			link: 'https://calendar.protonmail.com/',
+			name: 'WhatsApp',
+			icon: 'message-circle',
+			link: 'https://www.web.whatsapp.com/',
 		},
 		{
 			id: '5',
-			name: 'ANILIST',
+			name: 'Animixplay',
 			icon: 'heart',
-			link: 'https://anilist.co',
+			link: 'https://www.animixplay.to/',
 		},
 		{
 			id: '3',
-			name: 'REDDIT',
+			name: 'Reddit',
 			icon: 'glasses',
-			link: 'https://reddit.artemislena.eu/settings/restore/?theme=black&front_page=default&layout=clean&wide=on&comment_sort=confidence&show_nsfw=on&use_hls=on&hide_hls_notification=off&subscriptions=anime%2BAzurLane%2BAzurLewd%2Bflicks%2Bformula1%2Bgachagaming%2BJuve%2Bmovies%2BMovieSuggestions%2Bsoccer%2Bsummonerschool%2Btelevisionsuggestions%2BTrueFilm%2Bunixporn%2Bvoidlinux&filters=',
+			link: 'https://www.reddit.com',
 		},
 		{
 			id: '4',
-			name: 'FSR',
-			icon: 'film',
-			link: 'https://filmschoolrejects.com/',
+			name: 'Instagram',
+			icon: 'instagram',
+			link: 'https://www.instagram.com/',
 		},
 		{
 			id: '6',
-			name: 'HN',
-			icon: 'glasses',
-			link: 'https://www.hckrnws.com/',
+			name: 'Fast.com',
+			icon: 'wifi',
+			link: 'https://www.fast.com/',
 		},
 	],
 
-	secondButtonsContainer: [
-		{
-			id: '4',
-			name: 'GIT',
-			icon: 'github',
-			link: 'https://github.com/',
-		},
-		{
-			id: '5',
-			name: 'DOCKER',
-			icon: 'package',
-			link: 'http://192.168.1.253:9000/',
-		},
-		{
-			id: '3',
-			name: 'ENDEAVOUR',
-			icon: 'rocket',
-			link: 'https://forum.endeavouros.com/',
-		},
-		{
-			id: '1',
-			name: 'MB',
-			icon: 'server',
-			link: 'http://192.168.1.253:81',
-		},
-		{
-			id: '6',
-			name: 'FIN',
-			icon: 'play-circle',
-			link: 'http://192.168.1.253:8096',
-		},
-		{
-			id: '2',
-			name: 'DL',
-			icon: 'download',
-			link: 'http://192.168.1.253:9091/transmission/web/',
-		},
-	],
 
 	// ┬  ┬┌─┐┌┬┐┌─┐
 	// │  │└─┐ │ └─┐
@@ -139,20 +101,20 @@ const CONFIG = {
 			id: '1',
 			links: [
 				{
-					name: 'Inspirational',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Vibrating Air',
+					link: 'https://youtube.com/playlist-list=PLhTn1Qdszh15Kr7NJYSoGzjj8SNAXGocA',
 				},
 				{
-					name: 'Classic',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Random songs',
+					link: 'https://youtube.com/playlist?list=PLhTn1Qdszh14aw8oj4UCDXEIjM_L4Pl28',
 				},
 				{
-					name: 'Oldies',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'LoFi',
+					link: 'https://www.lofi.co',
 				},
 				{
-					name: 'Rock',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Dark Academia',
+					link: 'https://youtu.be/s8tSxHEoZyQ',
 				},
 			],
 		},
@@ -161,70 +123,21 @@ const CONFIG = {
 			id: '2',
 			links: [
 				{
-					name: 'Linkedin',
-					link: 'https://www.linkedin.com',
+					name: 'Gmail',
+					link: 'https://mail.google.com/mail/u/1/#inbox',
 				},
 				{
-					name: 'Dribbble',
-					link: 'https://www.dribbble.com',
+					name: 'Amazon',
+					link: 'https://www.amazon.in/',
 				},
 				{
-					name: 'Trello',
-					link: 'https://www.trello.com',
+					name: 'Twitter/Explore',
+					link: 'https://twitter.com/explore',
 				},
 				{
-					name: 'Slack',
-					link: 'https://www.slack.com',
+					name: 'Google Images',
+					link: 'https://images.google.com/',
 				},
 			],
 		},
 	],
-
-	// Second Links Container
-	secondListsContainer: [
-		{
-			icon: 'binary',
-			id: '1',
-			links: [
-				{
-					name: 'Spotify',
-					link: 'https://www.spotify.com',
-				},
-				{
-					name: 'Reddit',
-					link: 'https://www.reddit.com',
-				},
-				{
-					name: 'Hashnode',
-					link: 'https://www.hashnode.com',
-				},
-				{
-					name: 'Pocket',
-					link: 'https://www.pocket.com',
-				},
-			],
-		},
-		{
-			icon: 'github',
-			id: '2',
-			links: [
-				{
-					name: 'Front',
-					link: 'https://www.reddit.com/r/Frontend/',
-				},
-				{
-					name: 'Rust',
-					link: 'https://www.reddit.com/r/rust/',
-				},
-				{
-					name: 'Go',
-					link: 'https://www.reddit.com/r/golang/',
-				},
-				{
-					name: 'Repos',
-					link: 'https://github.com/migueravila',
-				},
-			],
-		},
-	],
-};
