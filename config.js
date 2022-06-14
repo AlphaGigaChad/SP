@@ -13,7 +13,7 @@ const CONFIG = {
 	// General
 	name: 'Pranav',
 	imageBackground: true,
-	openInNewTab: false,
+	openInNewTab: true,
 	twelveHourFormat: true,
 
 	// Greetings
