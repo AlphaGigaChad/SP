@@ -53,21 +53,21 @@ const CONFIG = {
 	firstButtonsContainer: [
 		{
 			id: '1',
-			name: 'YouTube',
+			name: 'Youtube',
 			icon: 'youtube',
 			link: 'https://www.youtube.com/',
 		},
 		{
 			id: '2',
-			name: 'WhatsApp',
+			name: 'Whatsapp',
 			icon: 'message-circle',
-			link: 'https://www.web.whatsapp.com/',
+			link: 'https://web.whatsapp.com/',
 		},
 		{
 			id: '5',
 			name: 'Animixplay',
 			icon: 'heart',
-			link: 'https://www.animixplay.to/',
+			link: 'https://www.animixplay.to',
 		},
 		{
 			id: '3',
@@ -83,12 +83,50 @@ const CONFIG = {
 		},
 		{
 			id: '6',
-			name: 'Fast.com',
+			name: 'fast.com',
 			icon: 'wifi',
 			link: 'https://www.fast.com/',
 		},
 	],
 
+//	secondButtonsContainer: [
+//		{
+//			id: '4',
+//			name: 'GIT',
+//			icon: 'github',
+//			link: 'https://github.com/',
+//		},
+//		{
+//			id: '5',
+//			name: 'DOCKER',
+//			icon: 'package',
+//			link: 'http://192.168.1.253:9000/',
+//		},
+//		{
+//			id: '3',
+//			name: 'ENDEAVOUR',
+//			icon: 'rocket',
+//			link: 'https://forum.endeavouros.com/',
+//		},
+//		{
+//			id: '1',
+//			name: 'MB',
+//			icon: 'server',
+//			link: 'http://192.168.1.253:81',
+//		},
+//		{
+//			id: '6',
+//			name: 'FIN',
+//			icon: 'play-circle',
+//			link: 'http://192.168.1.253:8096',
+//		},
+//		{
+//			id: '2',
+//			name: 'DL',
+//			icon: 'download',
+//			link: 'http://192.168.1.253:9091/transmission/web/',
+//		},
+//	],
 
 	// ┬  ┬┌─┐┌┬┐┌─┐
 	// │  │└─┐ │ └─┐
@@ -124,21 +162,70 @@ const CONFIG = {
 			links: [
 				{
 					name: 'Gmail',
-					link: 'https://mail.google.com/mail/u/1/#inbox',
+					link: 'https://mail.google.com/mail/u/0',
 				},
 				{
 					name: 'Amazon',
-					link: 'https://www.amazon.in/',
+					link: 'https://www.amazon.in',
 				},
 				{
 					name: 'Twitter/Explore',
-					link: 'https://twitter.com/explore',
+					link: 'https://www.twitter.com/explore',
 				},
 				{
 					name: 'Google Images',
-					link: 'https://images.google.com/',
+					link: 'https://images.google.com',
 				},
 			],
 		},
 	],
-};
+
+	// Second Links Container
+//	secondListsContainer: [
+//		{
+//			icon: 'binary',
+//			id: '1',
+//			links: [
+//				{
+//					name: 'Spotify',
+//					link: 'https://www.spotify.com',
+//				},
+//				{
+//					name: 'Reddit',
+//					link: 'https://www.reddit.com',
+//				},
+//				{
+//					name: 'Hashnode',
+//					link: 'https://www.hashnode.com',
+//				},
+//				{
+//					name: 'Pocket',
+//					link: 'https://www.pocket.com',
+//				},
+//
+	//],
+//		},
+//		{
+//			icon: 'github',
+//			id: '2',
+//			links: [
+//				{
+//					name: 'Front',
+//					link: 'https://www.reddit.com/r/Frontend/',
+//				},
+//				{
+//					name: 'Rust',
+//					link: 'https://www.reddit.com/r/rust/',
+//				},
+//				{
+//					name: 'Go',
+//					link: 'https://www.reddit.com/r/golang/',
+//				},
+//				{
+//					name: 'Repos',
+//					link: 'https://github.com/migueravila',
+//				},
+	//		],
+//		},
+//	],
+//};
