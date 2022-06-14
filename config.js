@@ -148,7 +148,7 @@ const CONFIG = {
 				},
 				{
 					name: 'LoFi',
-					link: 'https://www.lofi.co',
+					link: 'https://lofi.co',
 				},
 				{
 					name: 'Dark Academia',
