@@ -203,7 +203,7 @@ const CONFIG = {
 //					link: 'https://www.pocket.com',
 //				},
 //
-	//],
+//],
 //		},
 //		{
 //			icon: 'github',
@@ -225,7 +225,7 @@ const CONFIG = {
 //					name: 'Repos',
 //					link: 'https://github.com/migueravila',
 //				},
-	//		],
+//		],
 //		},
 //	],
 };
