@@ -13,14 +13,14 @@ const CONFIG = {
 	// General
 	name: 'Pranav',
 	imageBackground: true,
-	openInNewTab: true,
+	openInNewTab: false,
 	twelveHourFormat: true,
 
 	// Greetings
 	greetingMorning: 'Good morning!',
 	greetingAfternoon: 'Good afternoon',
 	greetingEvening: 'Good evening',
-	greetingNight: 'Sleep well King!',
+	greetingNight: 'Sleep well!',
 
 	// Layout
 	bentoLayout: 'bento', // 'bento', 'lists', 'buttons'
