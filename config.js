@@ -12,7 +12,7 @@ const CONFIG = {
 
 	// General
 	name: 'Pranav',
-	imageBackground: false,
+	imageBackground: true,
 	openInNewTab: true,
 	twelveHourFormat: true,
 
@@ -59,27 +59,27 @@ const CONFIG = {
 		},
 		{
 			id: '2',
-			name: 'Whatsapp',
-			icon: 'message-circle',
-			link: 'https://web.whatsapp.com/',
+			name: 'Instagram',
+			icon: 'instagram',
+			link: 'https://www.instagram.com/',
 		},
 		{
 			id: '5',
-			name: 'Animixplay',
-			icon: 'heart',
-			link: 'https://www.animixplay.to',
-		},
-		{
-			id: '3',
 			name: 'Reddit',
 			icon: 'glasses',
 			link: 'https://www.reddit.com',
 		},
 		{
+			id: '3',
+			name: 'Whatsapp',
+			icon: 'message-circle',
+			link: 'https://web.whatsapp.com',
+		},
+		{
 			id: '4',
-			name: 'Instagram',
-			icon: 'instagram',
-			link: 'https://www.instagram.com/',
+			name: 'Anime',
+			icon: 'heart',
+			link: 'https://www.animixplay.to/',
 		},
 		{
 			id: '6',
