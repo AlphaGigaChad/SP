@@ -140,7 +140,7 @@ const CONFIG = {
 			links: [
 				{
 					name: 'Vibrating Air',
-					link: 'https://youtube.com/playlist?list=PLhTn1Qdszh15Kr7NJYSoGzjj8SNAXGocA',
+					link: 'https://www.youtube.com/playlist?list=PLhTn1Qdszh15Kr7NJYSoGzjj8SNAXGocA',
 				},
 				{
 					name: 'Random songs',
