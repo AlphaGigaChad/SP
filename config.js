@@ -83,9 +83,9 @@ const CONFIG = {
 		},
 		{
 			id: '6',
-			name: 'fast.com',
-			icon: 'wifi',
-			link: 'https://www.fast.com/',
+			name: 'github',
+			icon: 'github',
+			link: 'https://github.com/',
 		},
 	],
 
