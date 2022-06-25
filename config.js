@@ -152,7 +152,7 @@ const CONFIG = {
 				},
 				{
 					name: 'Dark Academia',
-					link: 'https://youtu.be/s8tSxHEoZyQ',
+					link: 'https://www.youtube.com/results?search_query=dark+academia+playlist',
 				},
 			],
 		},
