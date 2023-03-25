@@ -65,9 +65,9 @@ const CONFIG = {
 		},
 		{
 			id: '5',
-			name: 'Reddit',
-			icon: 'glasses',
-			link: 'https://www.reddit.com',
+			name: 'Telegram',
+			icon: 'message-square',
+			link: 'https://web.telegram.org/k',
 		},
 		{
 			id: '3',
@@ -79,13 +79,13 @@ const CONFIG = {
 			id: '4',
 			name: 'Anime',
 			icon: 'heart',
-			link: 'https://www.animixplay.to/',
+			link: 'https://9anime.pl/home/',
 		},
 		{
 			id: '6',
-			name: 'github',
-			icon: 'github',
-			link: 'https://github.com/',
+			name: 'Reddit',
+			icon: 'glasses',
+			link: 'https://www.reddit.com/',
 		},
 	],
 
@@ -139,20 +139,20 @@ const CONFIG = {
 			id: '1',
 			links: [
 				{
-					name: 'Vibrating Air',
-					link: 'https://youtube.com/playlist?list=PLhTn1Qdszh15Kr7NJYSoGzjj8SNAXGocA',
+					name: 'hiphop rap',
+					link: 'https://open.spotify.com/playlist/59IRR2PazMJSCGmiGb8ZFn?si=f4ec30ccd07c4801',
 				},
 				{
-					name: 'Random songs',
-					link: 'https://youtube.com/playlist?list=PLhTn1Qdszh14aw8oj4UCDXEIjM_L4Pl28',
+					name: 'big sad',
+					link: 'https://open.spotify.com/playlist/0eQ7EZxTdbLEXe8L7lCRyK?si=511bde3472a5466a',
 				},
 				{
-					name: 'LoFi',
-					link: 'https://app.lofi.co/',
+					name: 'idk tbh',
+					link: 'https://open.spotify.com/playlist/71LDvUGVNSXO1eqEi0WpiP?si=af7b77cd553743af',
 				},
 				{
-					name: 'Dark Academia',
-					link: 'https://www.youtube.com/results?search_query=dark+academia+playlist',
+					name: 'vibrating air',
+					link: 'https://open.spotify.com/playlist/1NtSXO7UAM2zKBkGujfcdq?si=30de090b11c740fc',
 				},
 			],
 		},
@@ -161,20 +161,20 @@ const CONFIG = {
 			id: '2',
 			links: [
 				{
-					name: 'Gmail',
-					link: 'https://mail.google.com/mail/u/0',
+					name: 'Spotify',
+					link: 'https://open.spotify.com/',
 				},
 				{
-					name: 'Amazon',
-					link: 'https://www.amazon.in',
+					name: 'Studies',
+					link: 'https://www.playbook.com/s/study-material/45gUuc85Hm26UKeownRuxyiw/',
 				},
 				{
-					name: 'Twitter/Explore',
+					name: 'Twitter',
 					link: 'https://www.twitter.com/explore',
 				},
 				{
-					name: 'Google Images',
-					link: 'https://images.google.com',
+					name: 'Google Photos',
+					link: 'https://photos.google.com',
 				},
 			],
 		},
