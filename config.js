@@ -77,9 +77,9 @@ const CONFIG = {
 		},
 		{
 			id: '4',
-			name: 'Anime',
-			icon: 'heart',
-			link: 'https://9anime.pl/home/',
+			name: 'Netflix',
+			icon: 'tv',
+			link: 'https://www.netflix.com/browse',
 		},
 		{
 			id: '6',
@@ -139,20 +139,20 @@ const CONFIG = {
 			id: '1',
 			links: [
 				{
-					name: 'hiphop rap',
-					link: 'https://open.spotify.com/playlist/59IRR2PazMJSCGmiGb8ZFn?si=f4ec30ccd07c4801',
+					name: 'rap or sum',
+					link: 'https://open.spotify.com/playlist/59IRR2PazMJSCGmiGb8ZFn?si=62ac202979064163',
 				},
 				{
 					name: 'big sad',
 					link: 'https://open.spotify.com/playlist/0eQ7EZxTdbLEXe8L7lCRyK?si=511bde3472a5466a',
 				},
 				{
-					name: 'idk tbh',
+					name: 'randos',
 					link: 'https://open.spotify.com/playlist/71LDvUGVNSXO1eqEi0WpiP?si=af7b77cd553743af',
 				},
 				{
-					name: 'vibrating air',
-					link: 'https://open.spotify.com/playlist/1NtSXO7UAM2zKBkGujfcdq?si=30de090b11c740fc',
+					name: 'classical',
+					link: 'https://open.spotify.com/playlist/5eS8QENGl2TUBlErTLuJKE',
 				},
 			],
 		},
@@ -165,16 +165,16 @@ const CONFIG = {
 					link: 'https://open.spotify.com/',
 				},
 				{
-					name: 'Studies',
-					link: 'https://www.playbook.com/s/study-material/45gUuc85Hm26UKeownRuxyiw/',
+					name: 'Teams',
+					link: 'https://teams.microsoft.com/',
 				},
 				{
 					name: 'Twitter',
 					link: 'https://www.twitter.com/explore',
 				},
 				{
-					name: 'Google Photos',
-					link: 'https://photos.google.com',
+					name: 'Anime',
+					link: 'https://aniwave.to/home/',
 				},
 			],
 		},
