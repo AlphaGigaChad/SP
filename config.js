@@ -77,9 +77,9 @@ const CONFIG = {
 		},
 		{
 			id: '4',
-			name: 'Netflix',
-			icon: 'tv',
-			link: 'https://www.netflix.com/browse',
+			name: 'Twitter',
+			icon: 'twitter',
+			link: 'https://twitter.com/home',
 		},
 		{
 			id: '6',
@@ -169,12 +169,12 @@ const CONFIG = {
 					link: 'https://teams.microsoft.com/',
 				},
 				{
-					name: 'Twitter',
-					link: 'https://www.twitter.com/explore',
+					name: 'Pinterest',
+					link: 'https://in.pinterest.com/',
 				},
 				{
 					name: 'Anime',
-					link: 'https://aniwave.to/home/',
+					link: 'https://animeflix.live/',
 				},
 			],
 		},
